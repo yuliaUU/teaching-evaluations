@@ -1,7 +1,7 @@
 # Teaching Evaluations
 
 Teaching evaluations at department of EOAS, UBC
-- [EOSC 111](2019W1 Student Evaluation of Teaching Report for EOSC 111 L1C.pdf)
+- [EOSC 111](2019W1_Student_Evaluation_EOSC111.pdf)
 - [EOSC 112](2020W1 Student Evaluation of Teaching Report for EOSC 112 101 - The Fluid Earth  Atmosphere and Ocean - Yulia Egorova.pdf)
 
 Teaching evaluations at MDS at UBC
