@@ -11,7 +11,7 @@ Teaching evaluations at MDS at UBC
 - [DSCI 523](2022W1_Student_Evaluation_DSCI523.pdf) Programming in R
 - [DSCI 552](2022W1_Student_Evaluation_DSCI552.pdf)  Statistical Inference and Computation I
 - [DSCI 561](2022W1_Student_Evaluation_DSCI561.pdf) Regression I
-- [DSCI 561](2022W1_Student_Evaluation_EOSC112.pdf) EOSC 112
+- [EOSC 112](2022W1_Student_Evaluation_EOSC112.pdf) EOSC 112
 
 Teaching evaluation for introductory coding corses
 - [STAT 545](2020W1_Student_Evaluation_STAT545.pdf) Exploratory Data Analysis - DATA ANALYSIS I
