@@ -8,6 +8,10 @@ Teaching evaluations at MDS at UBC
 - [DSCI 521](2020W1_Student_Evaluation_DSCI521.pdf) Computing Platforms for Data Science
 - [DSCI 552](2020W1_Student_Evaluation_DSCI552.pdf) Statistical Inference and Computation I
 - [DSCI 561](2020W1_Student_Evaluation_DSCI561.pdf) Regression I
+- [DSCI 523](2022W1 Student Experience of Instruction Report for DSCI 523 001 - Programming for Data Manipulation.pdf) Programming in R
+- [DSCI 552](2022W1 Student Experience of Instruction Report for DSCI 552 001 - Statistical Inference and Computation I.pdf)  Statistical Inference and Computation I
+- [DSCI 561](2022W1 Student Experience of Instruction Report for DSCI 561 001 - Regression I.pdf) Regression I
+- [DSCI 561](2022W1 Student Experience of Instruction Report for EOSC 112 101 - The Fluid Earth Atmosphere and Ocean.pdf) EOSC 112
 
 Teaching evaluation for introductory coding corses
 - [STAT 545](2020W1_Student_Evaluation_STAT545.pdf) Exploratory Data Analysis - DATA ANALYSIS I
